@@ -1,2 +1,8 @@
 # Ignore .env
 .env
+
+#Ignore Virtul environment
+.venv
+
+#Ignore pyproject.toml artifacts
+p8_ocr_with_ai.egg-info/
