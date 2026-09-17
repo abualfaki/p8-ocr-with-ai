@@ -5,4 +5,7 @@
 .venv
 
 #Ignore pyproject.toml artifacts
-p8_ocr_with_ai.egg-info/
+*.egg-info/
+
+build/
+dist/
