@@ -10,5 +10,8 @@ dependencies = [
     "openai",
     "llama-cloud>=2.8",
     "pydantic",
-    "pydantic[email]"
+    "pydantic[email]",
+    "python-docx",
+    "docxtpl",
+    "pandas"
 ]
