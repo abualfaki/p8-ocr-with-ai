@@ -1,0 +1,1 @@
+{"version":"1.0","connections":[{"details":{"protocol":"tds","address":{"server":"dorvict.database.windows.net","database":"dev_dorvict_db"}},"mode":"DirectQuery"}]}
