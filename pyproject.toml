@@ -9,9 +9,14 @@ dependencies = [
     "django>=5.2",
     "openai",
     "llama-cloud>=2.8",
+    "llama-index",
     "pydantic",
     "pydantic[email]",
     "python-docx",
     "docxtpl",
-    "pandas"
+    "pymupdf",
+    "pandas",
 ]
+
+[tool.setuptools]
+py-modules = ["config"]
