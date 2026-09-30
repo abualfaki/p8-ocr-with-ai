@@ -9,3 +9,12 @@
 
 build/
 dist/
+
+# Ignore pycache
+__pycache__
+
+# Ignore .kilo
+.kilo
+
+# Ignore DS Store
+.DS_Store
